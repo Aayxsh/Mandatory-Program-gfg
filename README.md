@@ -1,4 +1,4 @@
-# Password-Generator-Program-gfg
+# Password-Generator-Program
 a code to make a randomized password with symbols, letters, numbers.
 1. Declare numbers,symbol, and letters as lists. 
 2. Take numerical input from user for the required output. 
